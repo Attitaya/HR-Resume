@@ -1,0 +1,5 @@
+docx
+flask
+flask-cors
+psycopg2
+openai
